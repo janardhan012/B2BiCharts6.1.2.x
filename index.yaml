@@ -5,12 +5,12 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.7_1
-    created: "2025-06-27T19:48:37.829923416+05:30"
+    created: "2025-06-27T20:54:38.025708217+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
-      version: 1.2.19
+      version: 1.2.16
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -48,12 +48,12 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.1.2.7_1
-    created: "2025-06-27T19:48:37.856535197+05:30"
+    created: "2025-06-27T20:54:38.062869822+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
-      version: 1.2.19
+      version: 1.2.16
     description: IBM Sterling File Gateway lets organizations transfer files between
       partners by using different protocols, conventions for naming files, and file
       formats. A scalable and security-enabled gateway, Sterling File Gateway enables
@@ -84,4 +84,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.10.tgz
     version: 2.1.10
-generated: "2025-06-27T19:48:37.785687579+05:30"
+generated: "2025-06-27T20:54:37.982976395+05:30"

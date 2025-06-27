@@ -4,7 +4,7 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.1.2.7_1
+    appVersion: 6.1.2.7
     created: "2025-06-27T19:48:37.829923416+05:30"
     dependencies:
     - alias: sch
@@ -47,7 +47,7 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
-    appVersion: 6.1.2.7_1
+    appVersion: 6.1.2.7
     created: "2025-06-27T19:48:37.856535197+05:30"
     dependencies:
     - alias: sch

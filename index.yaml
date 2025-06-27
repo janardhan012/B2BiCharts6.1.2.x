@@ -10,7 +10,7 @@ entries:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
-      version: 1.2.16
+      version: 1.2.19
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -53,7 +53,7 @@ entries:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
-      version: 1.2.16
+      version: 1.2.19
     description: IBM Sterling File Gateway lets organizations transfer files between
       partners by using different protocols, conventions for naming files, and file
       formats. A scalable and security-enabled gateway, Sterling File Gateway enables

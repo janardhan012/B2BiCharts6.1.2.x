@@ -4,8 +4,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.1.2.7_1
-    created: "2025-07-02T19:58:19.089653778+05:30"
+    appVersion: 6.1.2.7_2
+    created: "2025-08-19T04:52:16.358659972+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -20,7 +20,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 8b39b72974f49c6749cfee24817c4e2c601f79995f60afcc00d759f25da92917
+    digest: 964a15ec0446ce33af286599cc734f1ab731aaaf664449f9210be5be411396ab
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -35,20 +35,20 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.28'
+    kubeVersion: '>=1.29'
     maintainers:
     - name: IBM
     name: ibm-b2bi-prod
     type: application
     urls:
-    - ibm-b2bi-prod-2.1.10.tgz
-    version: 2.1.10
+    - ibm-b2bi-prod-2.1.11.tgz
+    version: 2.1.11
   ibm-sfg-prod:
   - annotations:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
-    appVersion: 6.1.2.7_1
-    created: "2025-07-02T19:58:19.116332791+05:30"
+    appVersion: 6.1.2.7_2
+    created: "2025-08-19T04:52:16.390591863+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -62,7 +62,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.1.2/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSKXJ
-    digest: cd3d6dc312f977f5579c2a7070ef5d0c3555040960391c68f35adf082e71b054
+    digest: 2ff2008824682600b20d956b29537a4751ef493435f32b95ddc7aed9c236f653
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.1.2/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -76,12 +76,12 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.28'
+    kubeVersion: '>=1.29'
     maintainers:
     - name: IBM
     name: ibm-sfg-prod
     type: application
     urls:
-    - ibm-sfg-prod-2.1.10.tgz
-    version: 2.1.10
-generated: "2025-07-02T19:58:19.058769945+05:30"
+    - ibm-sfg-prod-2.1.11.tgz
+    version: 2.1.11
+generated: "2025-08-19T04:52:16.324000364+05:30"

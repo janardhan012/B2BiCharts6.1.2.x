@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.8
-    created: "2026-01-27T23:01:44.722468905-05:00"
+    created: "2026-01-28T23:13:17.853666207-05:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -20,7 +20,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 3e2d40f2c5b1e26d08fbf7f052f8d473eda2d6f47d7778f78030b293140a8ef5
+    digest: a113126a61864e3a206d7dfc5c9205809426a9e25ffcb4319387a542b1100ed5
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -48,7 +48,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.1.2.8
-    created: "2026-01-27T23:01:44.746722745-05:00"
+    created: "2026-01-28T23:13:17.885305113-05:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -62,7 +62,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.1.2/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSKXJ
-    digest: 5d1332cada780d8df2b42d9b3f17e5d5e0f604743d38474439bfc7ecca285737
+    digest: 3090ca6e9599879c0d99880a55fb2f0d41420db3e0f3993e2e7cd805c56dc130
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.1.2/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -84,4 +84,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.12.tgz
     version: 2.1.12
-generated: "2026-01-27T23:01:44.694889339-05:00"
+generated: "2026-01-28T23:13:17.822947051-05:00"
